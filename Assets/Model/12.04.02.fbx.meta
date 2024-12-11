@@ -1,0 +1,301 @@
+fileFormatVersion: 2
+guid: 7d13a926488db4a989e71ef874bd8a72
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bark_D
+    second: {fileID: 2800000, guid: 8f75b4e3d15ac48aa9ca38bd89069eca, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bracken
+    second: {fileID: 2800000, guid: 601a3a61a1b304e5fb6b5793c6679874, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bracken_Colour
+    second: {fileID: 2800000, guid: f11c537812a8749bb97bed11182f34d7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Bracken_Normal_Map
+    second: {fileID: 2800000, guid: b8bdc838ff2464c5fafa6474b54b2a01, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Brances_O
+    second: {fileID: 2800000, guid: b6216776568524216b491f79d47f26ef, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Clover_Normal_Map
+    second: {fileID: 2800000, guid: d0512be639a5040d69e0efe6984ddb40, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cowberry
+    second: {fileID: 2800000, guid: 9ecea86191330419fb7099afcd581c62, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Cowberry_Colour
+    second: {fileID: 2800000, guid: 15cc3694c20b64ed6ab95cf43165bff6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Grass_Variant_2_Colour
+    second: {fileID: 2800000, guid: 688f677a108de4cacbee9b6cd318c7c9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Meadow_Saxifrage
+    second: {fileID: 2800000, guid: c8c1a866bf1194727a915b34ae931747, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Meadow_Saxifrage_Normal_Map
+    second: {fileID: 2800000, guid: 93e0221c454904546b31081c5e46f692, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Poppy
+    second: {fileID: 2800000, guid: 169f0bdb58431473cafc9645ecd696d1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Poppy_Colour
+    second: {fileID: 2800000, guid: 85f9d6b12bfbf40e2b773ec4cd83d803, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Poppy_Normal_Map
+    second: {fileID: 2800000, guid: 663e256dd24594a98b4daefe354b3b14, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Potato_Atlas_PBR_DIFFUSE
+    second: {fileID: 2800000, guid: 30b3d9093fa9446268f68662f2086f69, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Potato_Atlas_PBR_MASK
+    second: {fileID: 2800000, guid: 110f15f9a06c74015bf1cbdb9200423a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Sakura branches
+    second: {fileID: 2800000, guid: fd05df440a20a448ba9b22059736a307, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Screenshot 2021-10-29 031624-gigapixel-scale-10_00x
+    second: {fileID: 2800000, guid: 0673cdfb8c73646b9b4295e814050734, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Screenshot 2021-10-29 031624-gigapixel-scale-10_00x01
+    second: {fileID: 2800000, guid: e1618ea33c6b14919b9b2220b11e9678, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Screenshot 2021-10-29 031624-gigapixel-scale-10_00x02
+    second: {fileID: 2800000, guid: df7cdbab763014a308f946a7b618e795, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Screenshot 2021-10-29 031624-gigapixel-scale-10_00x03
+    second: {fileID: 2800000, guid: 172e27b7a9613437388599dfb43d3925, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_RoseClimber02
+    second: {fileID: 2800000, guid: 28a16f80b48d3452bb07009defbfb6c6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_RoseClimber_n
+    second: {fileID: 2800000, guid: 1b017b1467d544d03b8779718ecdb76e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Tree_Bark_Color
+    second: {fileID: 2800000, guid: 7626c14bb238e43e890e7e4f6b19f3e0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Tree_Foliage_Color.jpg
+    second: {fileID: 2800000, guid: 1f351906d15974d8aa4705ce1a251de1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Tree_Foliage_Opacity
+    second: {fileID: 2800000, guid: 91f7a2ef03ab5448e99035c979e9fbb4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tree_bark
+    second: {fileID: 2800000, guid: de65bf80ad6694950abccaeb442cbaa6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tree_leafs_Demo_class
+    second: {fileID: 2800000, guid: 531f15cbfcd8e47bfa47f3358c5ea809, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tree_leafs_Demo_class_Alpha
+    second: {fileID: 2800000, guid: 5c14c0be475a6436fa03d3562fb4555a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Uncut_Grass_oiloS0_4K_AO
+    second: {fileID: 2800000, guid: 3bb8f7c797aa74257ab29a3b5a7cd18d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Uncut_Grass_oiloS0_4K_BaseColor
+    second: {fileID: 2800000, guid: 97831a7ccf7184297b416adfbc339cf0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Uncut_Grass_oiloS0_4K_Bump
+    second: {fileID: 2800000, guid: 742e74d349dee438b8f75ba827f81cea, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Uncut_Grass_oiloS0_4K_Normal
+    second: {fileID: 2800000, guid: 1f9f19740d23a45799a9346dc9ea21ff, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Uncut_Grass_oiloS0_4K_Roughness
+    second: {fileID: 2800000, guid: 9ed3c914611dd4c3392c23bf7870ab8f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: blueberryBranchTxtr
+    second: {fileID: 2800000, guid: e7a60f2a0d89c485384d8153febd0733, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: blueberryMask
+    second: {fileID: 2800000, guid: d74e2f5fafee84e028f7510b8f1a8a63, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lupin_mask_SF
+    second: {fileID: 2800000, guid: 830045491e51b4643a6f4fc21e4c17c4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lupin_normal
+    second: {fileID: 2800000, guid: 7a25d71fad38044b6a50cdaddef18515, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: lupin_txtr
+    second: {fileID: 2800000, guid: e295298f40ff94a2c9b1efd273af94e7, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
